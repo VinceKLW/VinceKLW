@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-- 🎓 Computer Science student at Ontario Tech University  
+- 🎓 2nd Year Computer Science student at Ontario Tech University  
 - 🤖 Passionate about Software Development/Full Stack
 - 💻 Building cool projects with Python, FastAPI, React, and more  
 - 🌱 Currently exploring backend development and cloud computing  
@@ -24,16 +24,12 @@ Welcome to my GitHub profile!
 
 ---
 
-## Projects
+## Projects (Devpost/Github Repo)
 
-- [Nexus AI](https://github.com/yourusername/nexus-ai) – Personal AI assistant and productivity hub  
+- [Nexus AI](https://devpost.com/software/nexus-ai-g2eq10) – Personal AI assistant and productivity hub
+- [Trash Tech](https://devpost.com/software/hackhive-2024) – OpenCV Trash Detection
+- [handArithmetic](https://github.com/VinceKLW/handArithmetic) – Solve math problems with your fingers
 - [Portfolio](https://vincentwong.xyz/) – My React-based portfolio website  
-
----
-
-## GitHub Stats
-
-![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinceKLW&show_icons=true&theme=radical)
 
 ---
 
