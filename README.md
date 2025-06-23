@@ -1,7 +1,5 @@
 # Hi there, I'm Vincent Wong 👋
 
-Welcome to my GitHub profile!
-
 ---
 
 ## About Me
