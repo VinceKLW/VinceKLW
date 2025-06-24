@@ -18,7 +18,7 @@
 - **Frameworks:** FastAPI, React, Flask  
 - **Tools:** Git, AWS, Azure  
 - **Databases:** ChromaDB, MongoDB, PineconeDB  
-- **Other:** Machine Learning, Data Analysis, APIs, Cloud  
+- **Other:** Machine Learning, Data Modeling, Data Analysis, APIs, Cloud  
 
 ---
 
