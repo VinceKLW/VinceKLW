@@ -31,6 +31,12 @@
 
 ---
 
+## Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VinceKLW)](https://git.io/streak-stats)
+
+---
+
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vincentklw)  [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:vincent.wong3@ontariotechu.net)
