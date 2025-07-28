@@ -14,9 +14,9 @@
 
 ## Skills
 
-- **Languages:** Python, JavaScript, SQL, C++, Java  
+- **Languages:** Python, JavaScript, C++, Java, SQL  
 - **Frameworks:** FastAPI, React, Flask  
-- **Tools:** Git, AWS, Azure  
+- **Tools:** Git, AWS, Azure, Snowflake, Informatica Intelligent Cloud Services  
 - **Databases:** ChromaDB, MongoDB, PineconeDB  
 - **Other:** Machine Learning, Data Modeling, Data Analysis, APIs, Cloud  
 
