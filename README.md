@@ -8,7 +8,7 @@
 - 🤖 Passionate about Software Development/Full Stack
 - 💻 Building cool projects with Python, FastAPI, React, and more  
 - 🌱 Currently exploring backend development and cloud computing  
-- 📫 Reach me: [vincent.wong3@ontariotechu.net](mailto:vincent.wong3@ontariotechu.net)  
+- 📫 Reach me: [vinceklwong@gmail.com](mailto:vinceklwong@gmail.com)  
 
 ---
 
