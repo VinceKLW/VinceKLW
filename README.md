@@ -24,10 +24,12 @@
 
 ## Projects (Devpost/Github Repo)
 
+- [volt!](https://v0lt.ca) – Want to talk to your documents instead of reading them?
+- [OTUGuessr](https://OTUGuessr.com) – Ontario Tech Univeristy's GeoGuessr
 - [Nexus AI](https://devpost.com/software/nexus-ai-g2eq10) – Personal AI assistant and productivity hub
 - [Trash Tech](https://devpost.com/software/hackhive-2024) – OpenCV Trash Detection
 - [handArithmetic](https://github.com/VinceKLW/handArithmetic) – Solve math problems with your fingers
-- [Portfolio](https://vincentwong.xyz/) – My React-based portfolio website  
+- [Portfolio](https://vinceklwong.com/) – My React-based portfolio website  
 
 ---
 
