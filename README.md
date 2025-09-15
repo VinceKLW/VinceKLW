@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🎓 2nd Year Computer Science student at Ontario Tech University  
+- 🎓 3rd Year Computer Science student at Ontario Tech University  
 - 🤖 Passionate about Software Development/Full Stack
 - 💻 Building cool projects with Python, FastAPI, React, and more  
 - 🌱 Currently exploring backend development and cloud computing  
@@ -14,7 +14,7 @@
 
 ## Skills
 
-- **Languages:** Python, JavaScript, C++, Java, SQL  
+- **Languages:** Python, TypeScript, JavaScript, C++, Java, SQL  
 - **Frameworks:** FastAPI, React, Flask  
 - **Tools:** Git, AWS, Azure, Snowflake, Informatica Intelligent Cloud Services  
 - **Databases:** ChromaDB, MongoDB, PineconeDB  
@@ -41,7 +41,7 @@
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vincentklw)  [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:vincent.wong3@ontariotechu.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vincentklw)  [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:vinceklwong@gmail.com)
 
 ---
 
