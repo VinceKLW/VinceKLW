@@ -1,21 +1,11 @@
-# Hi there, I'm Vincent Wong 👋
+# Vincent Wong
 
----
+> Computer Science Student @ Ontario Tech University
 
-## About Me
+Aside from coding, I enjoy building products, exploring machine learning, and turning ideas into real-world software.
 
-- 🎓 3rd Year Computer Science student at Ontario Tech University  
-- 🤖 Passionate about Software Development/Full Stack
-- 💻 Building cool projects with NextJS, FastAPI, React, and more  
-- 🌱 Currently exploring AI and Agents
-- 📫 Reach me: [vinceklwong@gmail.com](mailto:vinceklwong@gmail.com)  
+## Connect
 
----
-
-## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vincentklw)  [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:vinceklwong@gmail.com) [![X/Twitter](https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white)](https://x.com/vinceklwong) 
-
----
-
-*Thanks for stopping by!* 😊
+- 👤 **LinkedIn:** https://www.linkedin.com/in/vinceklwong
+- 🌐 **Website:** https://vinceklwong.com  
+- ✉️ **Email:** vinceklwong@gmail.com
