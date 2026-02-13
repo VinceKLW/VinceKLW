@@ -1,8 +1,8 @@
 # Vincent Wong
 
-> Computer Science Student @ Ontario Tech University
+> SWE Intern @ Shopify | Prev @ Fidelity Investments | CS @ Ontario Tech University
 
-Aside from coding, I enjoy building products, exploring machine learning, and turning ideas into real-world software.
+AI and agents. Building tools that simplify complex workflows.
 
 ## Connect
 
