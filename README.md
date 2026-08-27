@@ -1,6 +1,6 @@
 # Vincent Wong
 
-> SWE Intern @ Shopify | Prev @ Fidelity Investments | CS @ Ontario Tech University
+> Engineering @ Shopify | Prev @ Fidelity Investments | CS @ Ontario Tech University
 
 AI and agents. Building tools that simplify complex workflows.
 
