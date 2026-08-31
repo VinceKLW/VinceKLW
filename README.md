@@ -7,5 +7,5 @@ AI and agents. Building tools that simplify complex workflows.
 ## Connect
 
 - 👤 **LinkedIn:** https://www.linkedin.com/in/vinceklwong
-- 🌐 **Website:** https://vinceklwong.com  
+- 🌐 **Website:** https://vinceklwong.com
 - ✉️ **Email:** vinceklwong@gmail.com
